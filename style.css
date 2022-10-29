@@ -1,0 +1,26 @@
+
+.mine-page-img {
+    margin: 30px;
+    padding: 100px;
+    background: #80ffaa80;
+    width: 300px;
+    height: 150;
+}
+#super-item {
+        color:darkmagenta;
+    }
+    
+li {
+        font-size: 20px;
+        font-weight: 300;
+        }
+h2 {
+    font-size: 50px;
+    font-weight: 500;
+    color: blueviolet;
+}      
+p   {
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(11, 35, 34);
+}  
